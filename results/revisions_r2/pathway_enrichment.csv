@@ -1,0 +1,8 @@
+Pathway,N_genes,Mean_rho,p_value,Direction
+Angiogenesis,4,0.33,0.125,Up in High-risk
+EMT,10,0.283,0.001953,Up in High-risk
+TGF-beta Signaling,4,0.268,0.125,Up in High-risk
+Hypoxia,7,0.244,0.015625,Up in High-risk
+TNF-alpha/NF-kB,3,0.219,0.25,Up in High-risk
+Inflammatory Response,3,0.121,0.5,Up in High-risk
+IFN-gamma Response,3,-0.085,0.5,Down

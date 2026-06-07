@@ -1,0 +1,63 @@
+pair,ligand,receptor,source,target,direction,lig_expr,rec_expr,score
+CXCL8→CXCR1,CXCL8,CXCR1,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.024,0.001,0.006
+CXCL8→CXCR1,CXCL8,CXCR1,ILC,Myeloid cell,Tumor→Myeloid,0.021,0.001,0.005
+CXCL8→CXCR1,CXCL8,CXCR1,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.015,0.001,0.004
+CXCL8→CXCR1,CXCL8,CXCR1,B cell,Myeloid cell,Tumor→Myeloid,0.059,0.001,0.009
+CXCL8→CXCR2,CXCL8,CXCR2,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.024,0.008,0.014
+CXCL8→CXCR2,CXCL8,CXCR2,ILC,Myeloid cell,Tumor→Myeloid,0.021,0.008,0.013
+CXCL8→CXCR2,CXCL8,CXCR2,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.015,0.008,0.011
+CXCL8→CXCR2,CXCL8,CXCR2,B cell,Myeloid cell,Tumor→Myeloid,0.059,0.008,0.022
+CCL2→CCR2,CCL2,CCR2,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.001,0.104,0.012
+CCL2→CCR2,CCL2,CCR2,ILC,Myeloid cell,Tumor→Myeloid,0,0.104,0.004
+CCL2→CCR2,CCL2,CCR2,CD8 T cell,Myeloid cell,Tumor→Myeloid,0,0.104,0.007
+CCL2→CCR2,CCL2,CCR2,B cell,Myeloid cell,Tumor→Myeloid,0.006,0.104,0.025
+CSF1→CSF1R,CSF1,CSF1R,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.03,0.32,0.098
+CSF1→CSF1R,CSF1,CSF1R,ILC,Myeloid cell,Tumor→Myeloid,0.003,0.32,0.032
+CSF1→CSF1R,CSF1,CSF1R,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.025,0.32,0.09
+CSF1→CSF1R,CSF1,CSF1R,B cell,Myeloid cell,Tumor→Myeloid,0.003,0.32,0.028
+SPP1→CD44,SPP1,CD44,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.009,0.892,0.089
+SPP1→CD44,SPP1,CD44,ILC,Myeloid cell,Tumor→Myeloid,0.001,0.892,0.034
+SPP1→CD44,SPP1,CD44,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.008,0.892,0.086
+SPP1→CD44,SPP1,CD44,B cell,Myeloid cell,Tumor→Myeloid,0.022,0.892,0.139
+CXCL10→CXCR3,CXCL10,CXCR3,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.002,0.008,0.004
+CXCL10→CXCR3,CXCL10,CXCR3,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.001,0.008,0.003
+CXCL10→CXCR3,CXCL10,CXCR3,B cell,Myeloid cell,Tumor→Myeloid,0.007,0.008,0.008
+TGFB1→TGFBR1,TGFB1,TGFBR1,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.241,0.023,0.074
+TGFB1→TGFBR1,TGFB1,TGFBR1,Myeloid cell,ILC,Myeloid→Tumor,0.241,0.059,0.119
+TGFB1→TGFBR1,TGFB1,TGFBR1,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.241,0.038,0.096
+TGFB1→TGFBR1,TGFB1,TGFBR1,Myeloid cell,B cell,Myeloid→Tumor,0.241,0.014,0.058
+TGFB1→TGFBR2,TGFB1,TGFBR2,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.241,0.079,0.138
+TGFB1→TGFBR2,TGFB1,TGFBR2,Myeloid cell,ILC,Myeloid→Tumor,0.241,0.066,0.126
+TGFB1→TGFBR2,TGFB1,TGFBR2,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.241,0.074,0.133
+TGFB1→TGFBR2,TGFB1,TGFBR2,Myeloid cell,B cell,Myeloid→Tumor,0.241,0.048,0.107
+IL10→IL10RA,IL10,IL10RA,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.039,0.234,0.095
+IL10→IL10RA,IL10,IL10RA,Myeloid cell,ILC,Myeloid→Tumor,0.039,0.208,0.09
+IL10→IL10RA,IL10,IL10RA,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.039,0.202,0.088
+IL10→IL10RA,IL10,IL10RA,Myeloid cell,B cell,Myeloid→Tumor,0.039,0.172,0.081
+IL10→IL10RB,IL10,IL10RB,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.039,0.124,0.069
+IL10→IL10RB,IL10,IL10RB,Myeloid cell,ILC,Myeloid→Tumor,0.039,0.09,0.059
+IL10→IL10RB,IL10,IL10RB,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.039,0.092,0.06
+IL10→IL10RB,IL10,IL10RB,Myeloid cell,B cell,Myeloid→Tumor,0.039,0.128,0.07
+VEGFA→FLT1,VEGFA,FLT1,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.164,0.002,0.017
+VEGFA→FLT1,VEGFA,FLT1,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.164,0,0.003
+VEGFA→FLT1,VEGFA,FLT1,Myeloid cell,B cell,Myeloid→Tumor,0.164,0.003,0.021
+IL6→IL6R,IL6,IL6R,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.016,0.103,0.04
+IL6→IL6R,IL6,IL6R,Myeloid cell,ILC,Myeloid→Tumor,0.016,0.002,0.006
+IL6→IL6R,IL6,IL6R,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.016,0.003,0.006
+IL6→IL6R,IL6,IL6R,Myeloid cell,B cell,Myeloid→Tumor,0.016,0.026,0.02
+CCL5→CCR2,CCL5,CCR2,Myeloid cell,CD4 T cell,Myeloid→Tumor,0.167,0.01,0.042
+CCL5→CCR2,CCL5,CCR2,Myeloid cell,ILC,Myeloid→Tumor,0.167,0.002,0.019
+CCL5→CCR2,CCL5,CCR2,Myeloid cell,CD8 T cell,Myeloid→Tumor,0.167,0.004,0.025
+CCL5→CCR2,CCL5,CCR2,Myeloid cell,B cell,Myeloid→Tumor,0.167,0.017,0.053
+SNAI1→TGFBR1,SNAI1,TGFBR1,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.007,0.043,0.018
+SNAI1→TGFBR1,SNAI1,TGFBR1,ILC,Myeloid cell,Tumor→Myeloid,0,0.043,0.003
+SNAI1→TGFBR1,SNAI1,TGFBR1,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.006,0.043,0.016
+SNAI1→TGFBR1,SNAI1,TGFBR1,B cell,Myeloid cell,Tumor→Myeloid,0.011,0.043,0.021
+SPP1→ITGAM,SPP1,ITGAM,CD4 T cell,Myeloid cell,Tumor→Myeloid,0.009,0.227,0.045
+SPP1→ITGAM,SPP1,ITGAM,ILC,Myeloid cell,Tumor→Myeloid,0.001,0.227,0.017
+SPP1→ITGAM,SPP1,ITGAM,CD8 T cell,Myeloid cell,Tumor→Myeloid,0.008,0.227,0.044
+SPP1→ITGAM,SPP1,ITGAM,B cell,Myeloid cell,Tumor→Myeloid,0.022,0.227,0.07
+CD274→PDCD1,CD274,PDCD1,Myeloid cell,CD4 T cell,Myeloid→Tcell,0.006,0.092,0.024
+CD274→PDCD1,CD274,PDCD1,Myeloid cell,CD8 T cell,Myeloid→Tcell,0.006,0.044,0.017
+CD274→CTLA4,CD274,CTLA4,Myeloid cell,CD4 T cell,Myeloid→Tcell,0.006,0.112,0.027
+CD274→CTLA4,CD274,CTLA4,Myeloid cell,CD8 T cell,Myeloid→Tcell,0.006,0.022,0.012

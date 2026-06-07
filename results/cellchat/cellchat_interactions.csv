@@ -1,0 +1,87 @@
+pair,ligand,receptor,source,target,score,p_value,direction
+TGFB1_TGFBR2,TGFB1,TGFBR2,B cell,Myeloid cell,0.1219,0.0818,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,CD4 T cell,Myeloid cell,0.1242,0.0539,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,CD8 T cell,CD4 T cell,0.1232,0.0679,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,CD8 T cell,Myeloid cell,0.1597,0.002,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,ILC,CD4 T cell,0.1246,0.0339,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,ILC,Myeloid cell,0.1615,0.002,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,Myeloid cell,B cell,0.1226,0.0938,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,Myeloid cell,CD4 T cell,0.151,0.002,Myeloid>Myeloid
+TGFB1_TGFBR2,TGFB1,TGFBR2,Myeloid cell,CD8 T cell,0.125,0.0539,Myeloid>Myeloid
+IL10_IL10RA,IL10,IL10RA,Myeloid cell,CD4 T cell,0.0759,0.0479,Myeloid>Myeloid
+IL10_IL10RA,IL10,IL10RA,Myeloid cell,CD8 T cell,0.0828,0.01,Myeloid>Myeloid
+IL10_IL10RA,IL10,IL10RA,Myeloid cell,ILC,0.0802,0.008,Myeloid>Myeloid
+SPP1_CD44,SPP1,CD44,B cell,Myeloid cell,0.1534,0.0519,Myeloid>Myeloid
+SPP1_CD44,SPP1,CD44,Myeloid cell,B cell,0.2293,0.002,Myeloid>Myeloid
+SPP1_CD44,SPP1,CD44,Myeloid cell,CD4 T cell,0.2372,0.002,Myeloid>Myeloid
+SPP1_CD44,SPP1,CD44,Myeloid cell,CD8 T cell,0.2044,0.002,Myeloid>Myeloid
+SPP1_CD44,SPP1,CD44,Myeloid cell,ILC,0.1639,0.018,Myeloid>Myeloid
+CSF1_CSF1R,CSF1,CSF1R,B cell,Myeloid cell,0.0486,0.002,Myeloid>Myeloid
+CSF1_CSF1R,CSF1,CSF1R,CD4 T cell,Myeloid cell,0.0979,0.002,Myeloid>Myeloid
+CSF1_CSF1R,CSF1,CSF1R,CD8 T cell,Myeloid cell,0.0786,0.002,Myeloid>Myeloid
+CXCL8_CXCR1,CXCL8,CXCR1,B cell,ILC,0.0195,0.002,Myeloid>Myeloid
+CXCL8_CXCR1,CXCL8,CXCR1,CD4 T cell,ILC,0.0138,0.012,Myeloid>Myeloid
+CXCL8_CXCR1,CXCL8,CXCR1,Myeloid cell,CD4 T cell,0.0211,0.002,Myeloid>Myeloid
+CXCL8_CXCR1,CXCL8,CXCR1,Myeloid cell,ILC,0.0394,0.002,Myeloid>Myeloid
+CXCL8_CXCR2,CXCL8,CXCR2,B cell,ILC,0.0487,0.002,Myeloid>Myeloid
+CXCL8_CXCR2,CXCL8,CXCR2,CD4 T cell,ILC,0.0345,0.0519,Myeloid>Myeloid
+CXCL8_CXCR2,CXCL8,CXCR2,Myeloid cell,ILC,0.0983,0.002,Myeloid>Myeloid
+CCL2_CCR2,CCL2,CCR2,B cell,Myeloid cell,0.0241,0.01,Myeloid>Myeloid
+CXCL10_CXCR3,CXCL10,CXCR3,Myeloid cell,B cell,0.048,0.002,Myeloid>Myeloid
+CXCL10_CXCR3,CXCL10,CXCR3,Myeloid cell,CD4 T cell,0.0697,0.002,Myeloid>Myeloid
+CXCL10_CXCR3,CXCL10,CXCR3,Myeloid cell,CD8 T cell,0.0713,0.002,Myeloid>Myeloid
+CXCL10_CXCR3,CXCL10,CXCR3,Myeloid cell,ILC,0.0337,0.0878,Myeloid>Myeloid
+VEGFA_FLT1,VEGFA,FLT1,B cell,Myeloid cell,0.0136,0.002,Myeloid>Myeloid
+VEGFA_FLT1,VEGFA,FLT1,Myeloid cell,CD4 T cell,0.0199,0.002,Myeloid>Myeloid
+IL6_IL6R,IL6,IL6R,B cell,CD4 T cell,0.0426,0.002,Myeloid>Myeloid
+IL6_IL6R,IL6,IL6R,B cell,Myeloid cell,0.0541,0.002,Myeloid>Myeloid
+IL6_IL6R,IL6,IL6R,Myeloid cell,CD4 T cell,0.0401,0.002,Myeloid>Myeloid
+TGFB1_TGFBR1,TGFB1,TGFBR1,CD8 T cell,ILC,0.1023,0.002,Myeloid>Myeloid
+TGFB1_TGFBR1,TGFB1,TGFBR1,ILC,CD8 T cell,0.091,0.008,Myeloid>Myeloid
+TGFB1_TGFBR1,TGFB1,TGFBR1,ILC,Myeloid cell,0.0858,0.0898,Myeloid>Myeloid
+TGFB1_TGFBR1,TGFB1,TGFBR1,Myeloid cell,CD8 T cell,0.1103,0.002,Myeloid>Myeloid
+TGFB1_TGFBR1,TGFB1,TGFBR1,Myeloid cell,ILC,0.1254,0.002,Myeloid>Myeloid
+IL10_IL10RB,IL10,IL10RB,B cell,Myeloid cell,0.0754,0.002,Myeloid>Myeloid
+IL10_IL10RB,IL10,IL10RB,CD4 T cell,Myeloid cell,0.0712,0.002,Myeloid>Myeloid
+IL10_IL10RB,IL10,IL10RB,CD8 T cell,Myeloid cell,0.0599,0.0379,Myeloid>Myeloid
+IL10_IL10RB,IL10,IL10RB,Myeloid cell,B cell,0.0583,0.0778,Myeloid>Myeloid
+CCL5_CCR2,CCL5,CCR2,CD4 T cell,Myeloid cell,0.2651,0.002,Myeloid>Myeloid
+CCL5_CCR2,CCL5,CCR2,CD8 T cell,Myeloid cell,0.4501,0.002,Myeloid>Myeloid
+CCL5_CCR2,CCL5,CCR2,ILC,Myeloid cell,0.4129,0.002,Myeloid>Myeloid
+CD274_PDCD1,CD274,PDCD1,B cell,CD4 T cell,0.0324,0.002,Myeloid>Myeloid
+CD274_PDCD1,CD274,PDCD1,B cell,CD8 T cell,0.021,0.0299,Myeloid>Myeloid
+CD274_PDCD1,CD274,PDCD1,CD4 T cell,CD8 T cell,0.0253,0.002,Myeloid>Myeloid
+SPP1_ITGAM,SPP1,ITGAM,B cell,Myeloid cell,0.0785,0.002,Myeloid>Myeloid
+SPP1_ITGAM,SPP1,ITGAM,Myeloid cell,ILC,0.0897,0.002,Myeloid>Myeloid
+CCL5_CCR5,CCL5,CCR5,CD4 T cell,CD8 T cell,0.254,0.002,Myeloid>Myeloid
+CCL5_CCR5,CCL5,CCR5,CD8 T cell,CD4 T cell,0.3295,0.002,Myeloid>Myeloid
+CCL5_CCR5,CCL5,CCR5,ILC,CD4 T cell,0.3022,0.002,Myeloid>Myeloid
+CCL5_CCR5,CCL5,CCR5,ILC,CD8 T cell,0.3957,0.002,Myeloid>Myeloid
+CXCL9_CXCR3,CXCL9,CXCR3,Myeloid cell,B cell,0.0284,0.006,Myeloid>Myeloid
+CXCL9_CXCR3,CXCL9,CXCR3,Myeloid cell,CD4 T cell,0.0413,0.002,Myeloid>Myeloid
+CXCL9_CXCR3,CXCL9,CXCR3,Myeloid cell,CD8 T cell,0.0423,0.002,Myeloid>Myeloid
+ANXA1_FPR1,ANXA1,FPR1,CD4 T cell,Myeloid cell,0.7637,0.002,Myeloid>Myeloid
+ANXA1_FPR1,ANXA1,FPR1,CD8 T cell,Myeloid cell,0.8512,0.002,Myeloid>Myeloid
+ANXA1_FPR1,ANXA1,FPR1,ILC,Myeloid cell,0.7579,0.002,Myeloid>Myeloid
+IL1B_IL1R1,IL1B,IL1R1,Myeloid cell,CD4 T cell,0.0718,0.002,Myeloid>Myeloid
+IL1B_IL1R1,IL1B,IL1R1,Myeloid cell,ILC,0.0711,0.002,Myeloid>Myeloid
+CCL20_CCR6,CCL20,CCR6,B cell,CD4 T cell,0.0801,0.0998,Myeloid>Myeloid
+CCL20_CCR6,CCL20,CCR6,CD4 T cell,B cell,0.1124,0.002,Myeloid>Myeloid
+CCL20_CCR6,CCL20,CCR6,CD8 T cell,CD4 T cell,0.1063,0.002,Myeloid>Myeloid
+CCL20_CCR6,CCL20,CCR6,Myeloid cell,B cell,0.1057,0.002,Myeloid>Myeloid
+CCL20_CCR6,CCL20,CCR6,Myeloid cell,CD4 T cell,0.1536,0.002,Myeloid>Myeloid
+CCL4_CCR5,CCL4,CCR5,CD4 T cell,CD8 T cell,0.166,0.002,Myeloid>Myeloid
+CCL4_CCR5,CCL4,CCR5,CD8 T cell,CD4 T cell,0.2629,0.002,Myeloid>Myeloid
+CCL4_CCR5,CCL4,CCR5,ILC,CD4 T cell,0.2441,0.002,Myeloid>Myeloid
+CCL4_CCR5,CCL4,CCR5,ILC,CD8 T cell,0.3196,0.002,Myeloid>Myeloid
+CD47_SIRPA,CD47,SIRPA,B cell,Myeloid cell,0.2469,0.002,Myeloid>Myeloid
+CD47_SIRPA,CD47,SIRPA,CD4 T cell,Myeloid cell,0.2409,0.002,Myeloid>Myeloid
+CD47_SIRPA,CD47,SIRPA,CD8 T cell,Myeloid cell,0.2549,0.002,Myeloid>Myeloid
+CD47_SIRPA,CD47,SIRPA,ILC,Myeloid cell,0.2559,0.002,Myeloid>Myeloid
+LGALS9_HAVCR2,LGALS9,HAVCR2,ILC,Myeloid cell,0.1035,0.0898,Myeloid>Myeloid
+LGALS9_HAVCR2,LGALS9,HAVCR2,Myeloid cell,CD4 T cell,0.1232,0.002,Myeloid>Myeloid
+LGALS9_HAVCR2,LGALS9,HAVCR2,Myeloid cell,CD8 T cell,0.1479,0.002,Myeloid>Myeloid
+LGALS9_HAVCR2,LGALS9,HAVCR2,Myeloid cell,ILC,0.2003,0.002,Myeloid>Myeloid
+CD86_CTLA4,CD86,CTLA4,B cell,CD4 T cell,0.0981,0.002,Myeloid>Myeloid
+CD86_CTLA4,CD86,CTLA4,Myeloid cell,CD4 T cell,0.2186,0.002,Myeloid>Myeloid
+CD86_CTLA4,CD86,CTLA4,Myeloid cell,CD8 T cell,0.0891,0.002,Myeloid>Myeloid

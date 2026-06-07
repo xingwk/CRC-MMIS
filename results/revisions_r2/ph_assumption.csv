@@ -1,0 +1,8 @@
+Variable,Chi_sq,p_value
+risk_score,0.22,0.6364
+stage_num,3.35,0.0671
+age,1.45,0.2281
+sex_num,0.7,0.4025
+msi_binary,1.41,0.2346
+cms4,1.18,0.277
+GLOBAL,10.43,0.1075
