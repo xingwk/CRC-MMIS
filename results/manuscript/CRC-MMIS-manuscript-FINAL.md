@@ -104,6 +104,10 @@ Immunotherapy response was predicted using a TIDE-inspired (Tumor Immune Dysfunc
 
 Survival analyses used Cox proportional hazards regression (univariate and multivariable adjusting for age, sex, AJCC stage, MSI status, and CMS4 subtype) and Kaplan-Meier estimation with log-rank tests. Proportional hazards assumptions were tested using Schoenfeld residuals. Prognostic discrimination was assessed using Harrell's C-index and time-dependent ROC analysis (R package timeROC). Calibration was evaluated at 1 and 3 years by comparing predicted survival with observed Kaplan-Meier estimates across risk quintiles. Decision curve analysis (DCA) assessed net clinical benefit across threshold probabilities. Bootstrap internal validation (1,000 resamples) was used to estimate the 95% confidence interval of the multivariable C-index. Meta-analysis used a manual DerSimonian-Laird random-effects model implemented in R. Continuous variables were compared using Welch's t-test, Mann-Whitney U test, or Kruskal-Wallis test. Categorical associations were assessed with chi-squared or Fisher's exact tests. Correlations used Spearman's rank correlation or Pearson correlation for log-transformed expression data. Multiple testing correction used the Benjamini-Hochberg false discovery rate method. All p-values were two-sided with p < 0.05 considered significant.
 
+### 2.11 Data Availability
+
+Processed expression matrices, risk scores, and all analysis scripts are available at GitHub (https://github.com/xingwk/CRC-MMIS) and archived on Zenodo (DOI: 10.5281/zenodo.20582855). Raw single-cell RNA-seq data are available at GEO (GSE146771, GSE132465, GSE205506). Bulk RNA-seq training data are from TCGA-COADREAD (GDC Portal). External validation microarray data are from GEO (GSE39582, GSE17536, GSE14333, GSE38832, GSE33113). CPTAC COAD RNA-seq data were obtained from LinkedOmics.
+
 ---
 
 ## 3. Results
